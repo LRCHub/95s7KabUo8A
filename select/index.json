@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "人生リセットボタンぽちーw",
+  "base_artist": "沙花叉クロヱ",
+  "createdAt": "2025-12-09T12:03:17.240961Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "人生リセットボタンぽちーw",
+      "artist": "沙花叉クロヱ",
+      "has_synced": true,
+      "path": "select/01_人生リセットボタンぽちーw_沙花叉クロヱ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "人生リセットボタンぽちーw",
+      "artist": "沙花叉クロヱ",
+      "has_synced": false,
+      "path": "select/pl_01_人生リセットボタンぽちーw_沙花叉クロヱ.txt"
+    }
+  ]
+}
